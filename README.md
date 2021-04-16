@@ -15,6 +15,8 @@ Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner 
 1. Um diese Übungsdateien zu verwenden, müssen Sie diese nur als Dateien downloaden.
 2. Alternativ klonen Sie dieses Repository auf Ihren lokalen Rechner mit dem Terminal (Mac), CMD (Windows) oder einem GUI-Tool wie SourceTree.
 
+## Über den Autor - Ralph Steyer
+Sie finden [weitere Kurse von Ralph Steyer](https://www.linkedin.com/learning/instructors/ralph-steyer) auf **LinkedIn Learning**. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/ralph-steyer-a69781/?trk=lil_instructor). 
 
 _______________________________
 ## Instructions
