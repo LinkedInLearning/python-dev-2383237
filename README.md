@@ -1,9 +1,22 @@
 # COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the **LinkedIn Learning** course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
 _See the readme file in the main branch for updated instructions and information._
+
+## Über diesen Kurs
+Die praktische Programmiersprache Python kommt in den unterschiedlichsten Bereichen zur Anwendung. Egal, ob Sie als Web-, KI-Entwickler:in oder Data Scientist:in unterwegs sind oder Spiele-, Desktop- und eingebettete Anwendungen schreiben: Es tauchen immer wieder Probleme und Aufgabenstellungen auf, die jenseits des Alltäglichen liegen und effizienter Lösungen bedürfen. Mit seiner Tipps- und Tricks-Sammlung möchte Ihnen Ralph Steyer helfen, die Hürden im Programmier:innen-Alltag zu überwinden und wird auch bei erfahrenen Anwendern bestimmt für den ein oder anderen Aha-Effekt sorgen.
+
+## Anleitung
+Die Quellcodes zu dem Kurs sind nach Kapiteln strukturiert. In jedem der Ordner für ein Kapitel sind die Quellcodedateien zu dem jeweiligen Kapitel des Kurses zu finden.
+
+## Installation/Download
+1. Um diese Übungsdateien zu verwenden, müssen Sie diese nur als Dateien downloaden.
+2. Alternativ klonen Sie dieses Repository auf Ihren lokalen Rechner mit dem Terminal (Mac), CMD (Windows) oder einem GUI-Tool wie SourceTree.
+
+
+_______________________________
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
