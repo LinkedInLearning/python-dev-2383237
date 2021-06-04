@@ -1,6 +1,6 @@
 # Python for C++-, Java- und C#-Entwickler
 Dies ist das Repository für den **LinkedIn Learning**-Kurs "Python for C++-, Java- und C#-Entwickler". Der vollständige Kurs ist bei 
-# >>>> update final Link to the course <<<< [LinkedIn Learning](https://de.linkedin.com/learning/php-objektorientierte-programmierung-oop) verfügbar.
+[LinkedIn Learning](https://www.linkedin.com/learning/python-fur-c-plus-plus-java-und-c-sharp-entwickler-innen) verfügbar.
 
 ## Über diesen Kurs
 Die praktische Programmiersprache Python kommt in den unterschiedlichsten Bereichen zur Anwendung. Egal, ob Sie als Web-, KI-Entwickler:in oder Data Scientist:in unterwegs sind oder Spiele-, Desktop- und eingebettete Anwendungen schreiben: Es tauchen immer wieder Probleme und Aufgabenstellungen auf, die jenseits des Alltäglichen liegen und effizienter Lösungen bedürfen. Mit seiner Tipps- und Tricks-Sammlung möchte Ihnen Ralph Steyer helfen, die Hürden im Programmier:innen-Alltag zu überwinden und wird auch bei erfahrenen Anwendern bestimmt für den ein oder anderen Aha-Effekt sorgen.
